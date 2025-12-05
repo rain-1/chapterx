@@ -71,4 +71,4 @@
 
 Note: May drift out of date over time. This was produced on 2025 Dec 5. Regenerate with a prompt like:
 
-> please could you prepare a short and precise markdown document explaining the exact config yaml fields and what they do (to be pasted into discord)?
+> please could you prepare a short and precise markdown document explaining the exact config yaml fields and what they do
